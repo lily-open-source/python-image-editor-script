@@ -16,7 +16,7 @@ This Python script is designed to resize images to a maximum of 450 pixels in he
 
 This Python script is designed to remove metadata, also known as EXIF data, from images in a specified folder. Metadata often includes information about the camera settings, date and time the photo was taken, and other details. By running this script, you can automate the process of stripping metadata from multiple images, reducing their file sizes.
 
--[code](metadata)
+- [code](metadata)
 
 ## Image Canvas Resizer
 
