@@ -22,6 +22,8 @@ This Python script is designed to remove metadata, also known as EXIF data, from
 
 This Python script provides a simple GUI for resizing the canvas of PNG files. It allows users to choose between processing a single file or multiple files in a folder. The script uses the PIL (Pillow) library for image processing.
 
+- [code](canvas)
+
 ## Image Compression Script (image to avif)
 
 This Python script is designed to compress images to the AVIF format using the avifenc command-line tool. The script includes a basic UI using the tkinter library, allowing users to select the source folder containing their images. The compressed images are saved in an 'out' folder within the source directory.
